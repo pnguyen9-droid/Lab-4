@@ -1,4 +1,4 @@
-# Lab 4
+# Lab 4 Phillip Nguyen
 
 ## main.c 
 
