@@ -14,7 +14,7 @@ Assembly function that loops through the array, adds all integers, and returns t
 gcc -no-pie main.c sum.s -o lab4
 
 ### Run
-./lab4
+./lab4 data.txt
 
 ## data.txt
 
